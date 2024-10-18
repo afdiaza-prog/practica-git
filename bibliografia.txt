@@ -1,4 +1,4 @@
 Scott Chacon and Ben Straub. Pro Git. Apress.
 Loeliger, J. and McCullough, M. Version control with Git. O’Reilly..
 Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
-Andrés Felipe Díaz Aguilar el más perrón
+Andrés Felipe Díaz Aguilar utilizando otro método
